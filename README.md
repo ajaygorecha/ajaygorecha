@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Ajay%20Gorecha&fontSize=40&fontColor=ffffff"/>
+
 # Hi, I'm Ajay Gorecha 👋
 
 🚀 UI/UX Designer | Full-Stack Developer
@@ -18,6 +20,10 @@ I specialize in designing and developing **high-quality web products** — from 
 ---
 
 ## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,html,css,sass,js,bootstrap,vue,nextjs,laravel,mysql,git,github"/>
+</p>
 
 ### Design
 
@@ -74,6 +80,17 @@ Live Demo:
 https://www.reddash.tech/
 
 ---
+
+## 🚀 Featured Projects
+
+### NovaDash
+Modern dashboard built with HTML, CSS, JS.
+
+### NextPress
+Next.js blog platform.
+
+### Subscription Manager
+Subscription tracking system.
 
 ## 📫 Connect With Me
 
